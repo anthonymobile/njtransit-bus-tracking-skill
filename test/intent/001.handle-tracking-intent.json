@@ -1,7 +1,7 @@
 {
-  "utterance": "t bus tracking for route 86 going inbound stop washington street at beacon street",
+  "utterance": "bus tracking for route 86 going inbound stop washington street at beacon street",
   "intent": {
-    "T.Bus": "t bus",    
+    "T.Bus": "bus",
     "Tracking": "tracking"
   }
 }

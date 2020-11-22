@@ -2,7 +2,7 @@
     "skillMetadata": {
         "sections": [
             {
-                "name": "MBTA Bus Tracking",
+                "name": "NJTransit Bus Tracking",
                 "fields": [
                     {
                     "type": "label",
@@ -26,7 +26,7 @@
                     },
                     {
                     "type": "label",
-                    "label":"API Key - If you would like to use your own MBTA API key you may check the box and enter it here Using an API key rasies the request per minute rate limit but shold not normally be needed. "                         
+                    "label":"API Key - API key is not required for New Jersey Transit. "
                     },                 
                     {
                         "name": "useownkey",
@@ -36,7 +36,7 @@
                     },
                     {
                         "type": "label",
-                        "label": "Enter your <a href=\"https://api-v3.mbta.com/login\">MBTA</a> API key"
+                        "label": "API Key - API key is not required for New Jersey Transit."
                     },
                     {
                         "name": "api_key",

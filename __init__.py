@@ -1,3 +1,11 @@
+# todo figure out how to install this skill on the pi (and set the pycharm remote working dir to that folder)
+# todo setup remote repo environment on pi? https://medium.com/@jvision/remote-development-with-pycharm-d741287e07de
+# todo push to github
+
+# todo convert all from MBTA to NJTransit
+# todo change 'T Bus' script to 'Bus'
+
+
 from adapt.intent import IntentBuilder
 from mycroft import MycroftSkill, intent_file_handler
 from mycroft.util.parse import match_one
